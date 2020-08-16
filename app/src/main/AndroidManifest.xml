@@ -9,18 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".hrApplicationPreview">
-
-        </activity>
-        <activity android:name=".SearchEmployee">
-
-        </activity>
-        <activity android:name=".HumanResourceHomePage">
-
-        </activity>
-        <activity android:name=".ReviewTourguideApplications">
-
-        </activity>
+        <activity android:name=".MainActivity1"></activity>
+        <activity android:name=".employee_Delete" />
+        <activity android:name=".homepage" />
+        <activity android:name=".hrApplicationPreview" />
+        <activity android:name=".SearchEmployee" />
+        <activity android:name=".HumanResourceHomePage" />
+        <activity android:name=".ReviewTourguideApplications" />
         <activity android:name=".TourGuideRecruitementHR">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,13 +23,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".UpdateEmployeeHR">
-
-        </activity>
-        <activity android:name=".addManagerialEmployee"></activity>
-        <activity android:name=".MainActivity">
-
-        </activity>
+        <activity android:name=".UpdateEmployeeHR" />
+        <activity android:name=".addManagerialEmployee" />
+        <activity android:name=".MainActivity" />
     </application>
 
 </manifest>
