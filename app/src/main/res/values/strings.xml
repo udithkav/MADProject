@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Inventory Control Management</string>
+    <string name="add_inv">Add Inventory</string>
+    <string name="inv_details">Inventory Details</string>
+    <string name="Sign_out">SIGN OUT</string>
+    <string name="inventory_details">Inventory Details</string>
+    <string name="Inventory_id">Inventory Id</string>
+    <string name="Inventory_type">Inventory Type</string>
+    <string name="Brand">Brand</string>
+    <string name="Inv_id">AC024</string>
+    <string name="Inv_type">Air Conditioner</string>
+    <string name="Inv_brand">Sony</string>
+    <string name="delete">Delete</string>
+    <string name="back">Back</string>
+    <string name="update">Update</string>
+    <string name="vehicle_details">Vehicle Details</string>
+    <string name="vehicle_no">Vehicle No</string>
+    <string name="colour">Colour</string>
+    <string name="model">Model</string>
+    <string name="room_details">Room Details</string>
+    <string name="room_no">Room No</string>
+    <string name="room_type">Room Type</string>
+    <string name="no_of_bed">No of Beds</string>
+    <string name="no_of_couch">No of Couch</string>
+    <string name="no_of_Ac">No of A/C</string>
+    <string name="add_vehicles">Add Vehicles</string>
+    <string name="add">Add</string>
+    <string name="reason">Reason To Add Vehicle</string>
+    <string name="add_inventoty">Add Inventory</string>
+    <string name="add_room">Add Room</string>
+    <string name="reason2">Reason To Add Inventory</string>
+    <string name="reason3">Reason To Add Room</string>
+    <string name="reason4">Reason To update Room</string>
+    <string name="reason5">Reason To update Vehicle</string>
+    <string name="update_room">Update Room</string>
+    <string name="update_vehicle">Update Vehicle</string>
+    <string name="noof_c">Number of Cars</string>
+    <string name="noof_v">Number of vans</string>
+    <string name="noof_b">Number of Bus</string>
+    <string name="noof_vehicles">Total Number Of Vehicles</string>
+
+
+</resources>
