@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">FinanceAccount</string>
+    <string name="add_income">Add Income Details</string>
+    <string name="add_expenses">Add Expenses Details</string>
+    <string name="financial">Financial Report</string>
+    <string name="signout">Sign Out</string>
+    <string name="Back">Back</string>
+    <string name="expensedetails">Expense ID</string>
+    <string name="expensesearch">Enter Expense ID</string>
+
+    <string name="amount">AMOUNT</string>
+    <string name="details">DETAILS</string>
+
+
+    <string name="username">USERNAME</string>
+    <string name="income_id">INCOMEID</string>
+    <string name="room_reservation">ROOM RESERVATION</string>
+
+    <string name="vehicle_details">VEHICLE RESERVATION</string>
+    <string name="package_details">PACKAGE RESERVATION</string>
+    <string name="update">UPDATE</string>
+    <string name="DELETE">DELETE</string>
+    <string name="financial_report">FINANCIAL REPORT</string>
+    <string name="income">INCOME</string>
+    <string name="transection_id">TRANSECTION_ID</string>
+    <string name="expenses">EXPENSES</string>
+    <string name="profit">PROFIT</string>
+    <string name="expensesdetails">EXPENSES DETAILS</string>
+    <string name="expensesID">EXPENSES ID</string>
+    <string name="addincomedetails">Add Income Details</string>
+    <string name="enterincomedeid">Enter Income ID</string>
+    <string name="entertransectionid">Enter Transection ID</string>
+
+
+</resources>
